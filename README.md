@@ -1,13 +1,14 @@
 ### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
 - 🌱 My blog is [wdft.com](https://wdft.com)
+- 📧 Email: stackgo@163.com  jackliu8909@gmail.com
 - 💬 Ask me about WeChat: labsec
+-
 <details>
-<summary>QRcode</summary>
+<summary>WeChat QRcode</summary>
 
 ![labsec](https://github.com/iotd/iotd/blob/main/wechat.png)
 </details>
-- 📧 Email: stackgo@163.com  jackliu8909@gmail.com
 
 <!--
 **iotd/iotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
