@@ -4,6 +4,8 @@
 - 💬 Ask me about WeChat: [labsec](https://github.com/iotd/iotd/blob/main/wechat.png)
 <details>
 <summary>QRcode</summary>
+
+labsec:
 ![labsec](https://github.com/iotd/iotd/blob/main/wechat.png)
 </details>
 - 📧 Email: stackgo@163.com  jackliu8909@gmail.com
