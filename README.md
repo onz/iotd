@@ -1,7 +1,6 @@
 ### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
 - 🌱 My blog is [wdft.com](https://wdft.com)
-- 📧 Email: stackgo@163.com  jackliu8909@gmail.com
 - 💬 Ask me about WeChat: labsec
 
 
