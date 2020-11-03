@@ -1,7 +1,7 @@
 #### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
-- 🌱 My blog is [wdft.com](https://wdft.com)
-- 💬 Ask me about WeChat: labsec
+- 🌱 Blog URL: [wdft.com](https://wdft.com)
+- 💬 WeChat: **labsec**
 
 
 <details>
