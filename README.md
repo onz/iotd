@@ -1,11 +1,10 @@
 ### Hi! I'm Jack Liu (Jianqiu Liu). 👋
 
 - 🌱 My blog is [wdft.com](https://wdft.com)
-- 💬 Ask me about WeChat: [labsec](https://github.com/iotd/iotd/blob/main/wechat.png)
+- 💬 Ask me about WeChat: labsec
 <details>
 <summary>QRcode</summary>
 
-labsec:
 ![labsec](https://github.com/iotd/iotd/blob/main/wechat.png)
 </details>
 - 📧 Email: stackgo@163.com  jackliu8909@gmail.com
