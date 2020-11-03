@@ -3,7 +3,9 @@
 - 🌱 My blog is [wdft.com](https://wdft.com)
 - 💬 Ask me about WeChat: labsec
 - 📧 Email: stackgo@163.com  jackliu8909@gmail.com
-- QRcode(WeChat):
+
+
+
 ![WeChat](https://github.com/iotd/iotd/blob/main/wechat.png)
 
 <!--
