@@ -6,7 +6,7 @@
 
 
 
-![WeChat](https://github.com/iotd/iotd/blob/main/wechat.png)
+![WeChat](https://github.com/iotd/iotd/blob/main/wechat.png =80x80)
 
 <!--
 **iotd/iotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
