@@ -2,6 +2,8 @@
 
 - 🌱 Blog URL: **[wdft.com](https://wdft.com)**
 - 💬 WeChat: **labsec**
+- 📮 Email-01: **stackgo@163.com**
+- 📮 Email-02: **jackliu8909@gmail.com**
 
 
 <details>
